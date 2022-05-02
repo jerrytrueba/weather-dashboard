@@ -8,4 +8,6 @@ https://github.com/jerrytrueba/weather-dashboard
 
 Deployment Link:
 
+https://jerrytrueba.github.io/weather-dashboard/
+
 Screenshots:
